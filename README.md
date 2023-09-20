@@ -1,4 +1,2 @@
-Personal git repository for 
-a) learning git
-b) keeping my Linux stuff organized
+Git repository for system critical dotfiles and configs.
 
